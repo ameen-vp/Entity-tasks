@@ -1,0 +1,6 @@
+@EntityInsoteredprocedure_allcrud_HostAddress = http://localhost:5038
+
+GET {{EntityInsoteredprocedure_allcrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
